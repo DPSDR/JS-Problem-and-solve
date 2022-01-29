@@ -1,5 +1,10 @@
-var alia  = 95; var dalia = 66; var salia = 80; var malia = 59; var lilia = 47; 
-var jalia = 77; var studentNames = ["alia", "dalia", "salia", "malia", "lilia", "jalia"];
+var alia  = 95; 
+var dalia = 66; 
+var salia = 80; 
+var malia = 59; 
+var lilia = 47; 
+var jalia = 77; 
+var studentNames = ["alia", "dalia", "salia", "malia", "lilia", "jalia"];
 var marks = [alia, dalia, salia, malia, lilia, jalia];
 var runTime = marks.length;
 
